@@ -9,4 +9,3 @@ Currently, two official plugins are available:
 
 This repository as no Backend we can only login into it only my the data provided by me in the project.
 
-Login Details:
